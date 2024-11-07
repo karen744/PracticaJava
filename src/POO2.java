@@ -1,0 +1,44 @@
+
+public class POO2 {
+	
+	public static void main(String[] args) {
+		
+		
+		//CLASES Y OBJETOS
+		
+		/*
+		CLASE --> ES UN MODELO DONDE SE REDACTAN LAS CARACTERISTICAS DE UN GRUPO DE OBJETOS
+		
+		OBJETO --> EJEMPLAR PERTENECIENTE A UNA CLASE
+					TIENE PROPIEDADES(ATRIBUTOS)
+					-COLOR
+					-PESO
+					-ALTO
+					-LARGO
+				TIENE UN COMPORTAMIENTO (QUE ES CAPAZ DE HACER)
+				-ARRANCAR
+				-FRENAR
+				-GIRAR
+				-ACELERAR
+				
+				--PSEUDOCODIGO--
+				
+				°PROPIEDADES (CARACTERISTICAS)
+				
+				-RENAULT.COLOR="ROJO"
+				
+				°COMPORTAMIENTO (FUNCIONES, ACCIONES, METODOS)
+				
+				-RENAULT.ARRANCAR()
+		
+	*/
+		
+		
+		
+		
+		
+		
+	}
+	
+
+}
